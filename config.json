@@ -1,6 +1,8 @@
 {
-  "lives": "LIVES",
-  "movies": "MOVIE",
-  "series": "SERIES"
+  "live": [
+    "LIVE/arquivo1.m3u",
+    "LIVE/arquivo2.m3u"
+  ],
+  "movies": [],
+  "series": []
 }
-
