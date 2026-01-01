@@ -1,8 +1,5 @@
 {
-  "live": [
-    "LIVE/arquivo1.m3u",
-    "LIVE/arquivo2.m3u"
-  ],
-  "movies": [],
-  "series": []
+  "live": "LIVE/index.json",
+  "movies": "MOVIE/index.json",
+  "series": "SERIES/index.json"
 }
