@@ -1,5 +1,5 @@
 {
-  "live": "LIVE/index.json",
-  "movies": "MOVIE/index.json",
-  "series": "SERIES/index.json"
+  "live": "LIVE",
+  "movies": "MOVIES",
+  "series": "SERIES"
 }
